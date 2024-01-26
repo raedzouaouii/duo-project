@@ -1,0 +1,102 @@
+h1{
+    text-align: center;
+}
+.navbar2 ul{
+
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    
+}
+.navbar2 a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 15px;
+   
+}
+#card2{
+    width: 40px;
+}
+.navbar2 a:hover{
+    background-color: white;
+    color: black;
+}
+/* .dv4{
+    display: flex;
+    justify-content: space-between;
+}
+.dv5{
+    display: flex;
+    justify-content: space-between;
+}
+/* p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+    font-size: large;
+   
+} 
+.b10{
+    font-size: larger;
+    background-color:  rgb(228, 228, 2);
+    
+}
+.b11{
+    font-size: larger;
+    background-color:  rgb(228, 228, 2);
+    
+}
+.b12{
+    font-size: larger;
+    background-color: rgb(228, 228, 2);
+    
+}.dc1{
+    display: flex;
+    justify-content: space-between;
+}
+.b13{
+    font-size: larger;
+    background-color: rgb(228, 228, 2);}
+.b14{
+        font-size: larger;
+        background-color:  rgb(228, 228, 2);}
+        p{    background-color:rgb(255, 255, 255);
+            color: black;
+            height: 70px; ;
+            display: flex;
+            justify-content: center;
+            align-items: center;  
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+            font-size: small;  
+        } */
+.container{
+display: flex;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+padding: 4px;
+gap: 4rem;
+}
+.product{
+    text-align: center;
+}
+.para{
+background-color: yellow;
+width: 200px;
+height: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 30px;
+}
+.b10{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+    color: white;
+}

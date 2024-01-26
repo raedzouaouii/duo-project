@@ -1,0 +1,20 @@
+h1{
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 70px; ;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.img22{
+    width: 1330px;
+    float: inline-start;
+}
+body{
+    background-color:rgb(255, 255, 255);
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    ;
+    font-size: large;
+}

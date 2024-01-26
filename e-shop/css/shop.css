@@ -1,0 +1,77 @@
+
+.dv1{
+
+    background-color:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 70px; ;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.dv1:hover{
+    color:rgb(255, 255, 255);
+    background-color: black;
+    
+}
+.navbar ul{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+   
+}
+#card1{
+    width: 40px;
+}
+#bershka1{
+    width: 193vh;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.h21{
+    background-color:rgb(255, 255, 255);
+    color: black;
+    height: 70px; ;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+}
+.h22{
+    background-color:rgb(255, 255, 255);
+    color: black;
+    height: 70px; ;
+    display: flex;
+    justify-content: center;
+    align-items: center;      
+}
+.div4{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar a:hover{
+    background-color: white;
+    color: black;
+}
+footer{
+    background-color:rgb(255, 255, 255);
+    color: black;
+    height: 70px; ;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    font-size: larger;  
+}
